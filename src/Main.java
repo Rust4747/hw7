@@ -49,7 +49,7 @@ public class Main {
         int t = 1;
         for (int i = 0; i <= 31; i++)
             if (i % 7 == 1) {
-                System.out.println("сегодня пятница " + i + " число");
+                System.out.println("сегодня пятница  " + i + " число");
             }
         int i=0;
         for (; i<=2022; i=i+79) {
